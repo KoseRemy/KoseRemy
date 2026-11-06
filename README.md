@@ -5,11 +5,11 @@ I'm a Computer Science student at RMIT University, minoring in enterprise system
 Currently diving into Software Development, DevOps and cloud.
 
 ## Tools
-**Languages:** Java, C++, Python, TypeScript, JavaScript (learning)
-**Web:** HTML CSS, Tailwind CSS
-**Frameworks:** Spring Boot
-**Tools:** Git, GitHub, VSCode
-**Learning:** AWS, Docker
+- **Languages:** Java, C++, Python, TypeScript, JavaScript (learning)
+- **Web:** HTML CSS, Tailwind CSS
+- **Frameworks:** Spring Boot
+- **Tools:** Git, GitHub, VSCode
+- **Learning:** AWS, Docker
 
 ## Areas of Interest
 - Software Engineering
